@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+color: blue;
+padding: 10px;
+margin: 10px;
+text-align: none;
+font-family: Verdana, sans-serif, Arial;
+}
+
+p {
+	font-size: 20px;
+	font-family: vernada;
+	text-align: justify;
+	padding: 5px;
+	margin: 10px;
+}
+
+.welcome {
+	background-image: url("images/tommyfranzen.png");
+	padding: 15px;
+	margin: 10px;
+	color: white;
+	font: Arial, sans-serif, Verdana;
+	font-size: 30px;
+	text-align: center;
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+}
+
+marquee {
+	background-color: black;
+	padding: 10px;
+	color: red;
+	font-family: Arial, sans-serif;
+	font-size: 2em;
+	margin: 10px;
+}
+
+#btn {
+	background: red;
+	border-radius: 30px;
+	color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+h6 {
+	font-size: 40px;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	text-align: justify;
+	font-family: Verdana, sans-serif, Arial;
+}
+
+
+.header {
+	background-color: black;
+	height: 150px;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	font-size: 20px;
+}
+
+#logo {
+	float: middle;
+	padding: 10px;
+}
+
+img {
+	padding: 10px;
+}
+
+#social {
+	float: right;
+	font-size: 20px;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	margin: 10px;
+	padding: 10px;
+	font-family: Arial, Verdana, sans-serif;
+	color: white;
+	font-size: 24px;
+}
+
+li {
+	font-family: Arial, verdana, sans-serif;
+	font-size: 10px;
+	padding: 10px;
+	text-align: left;
+}
+
+#link {
+	background-color: black;
+	font-family: Aria, verdana, sans-serif;
+	font-size: 2em;
+	padding: 10px;
+}
+a:hover {
+	color: yellow;
+}
+
+.navbar {
+	background-color: brown;
+	height: 35px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#search {
+	float: right;
+}
+
+
+.divbody {
+	height: 1000px;
+	
+}
+
+.divbody1 {
+	height: 350px;
+}
+
+.divbody2 {
+	height: 700px;
+}
+
+.blogpost {
+	height: 1500px;
+}
+
+.column1of5 {
+	height: 400px;
+	float: left;
+	margin: 5px;
+	width: 720px;
+	padding: 5px;
+}
+
+.column2of5 {
+	background-color: gray;
+	color: white;
+	height: 400px;
+	float: right;
+	margin: 5px;
+	width: 350px;
+	padding: 5px;
+}
+
+.column3of5, .column4of5, .column5of5 {
+	height: 100px;
+	margin: 10px;
+	padding: 5px;
+}
+
+#readmore {
+	background-color: red;
+	margin: 10px;
+	padding: 5px;
+	width: 160px;
+	border-radius: 10px;
+}
+
+
+#column {
+	height: 300px;
+	margin: 10px;
+	padding: 10px;
+}
+	
+
+#contactform {
+	background-color: lightgray;
+	padding: 10px;
+	margin: 10px;
+	height: 650px;
+}
+
+input {
+	padding: 10px;
+}
+
+footer {
+	background-color: black;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	font-family: arial, sans-serif;
+	font-size: 25px;
+}
